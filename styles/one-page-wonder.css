@@ -217,7 +217,7 @@ ul.social-media > li.twitter {
     }
 }
 
-@media(max-width:991px) {
+@media(max-width:990px) {
     .headline h1 {
         font-size: 105px;
     }
