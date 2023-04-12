@@ -126,6 +126,7 @@ body {
 .col .featurette-image {
 	max-width: 450px; 
 	margin-top: 35px;
+    width: 100%;
 }
 
 .featurette > .featurette-image {
@@ -231,7 +232,7 @@ ul.social-media > li.twitter {
     }
 
     .featurette-image {
-        max-width: 50%;
+        max-width: 100%;
     }
 
     .featurette-image.pull-left {
